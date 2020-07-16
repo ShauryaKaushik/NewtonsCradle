@@ -38,6 +38,12 @@ function draw() {
   rectMode(CENTER);
   background(0);
   
+  bobObject1.display();
+  bobObject2.display();
+  bobObject3.display();
+  bobObject4.display();
+  bobObject5.display();
+	
   drawSprites();
  
 }
